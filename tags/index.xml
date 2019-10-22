@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo New Blog</title>
+    <link>https://xxx.github.io//tags/</link>
+    <description>Recent content in Tags on Hugo New Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 22 Oct 2019 18:40:33 +0900</lastBuildDate>
+    
+        <atom:link href="https://xxx.github.io//tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>git</title>
+      <link>https://xxx.github.io//tags/git/</link>
+      <pubDate>Tue, 22 Oct 2019 18:40:33 +0900</pubDate>
+      
+      <guid>https://xxx.github.io//tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://xxx.github.io//tags/go/</link>
+      <pubDate>Tue, 22 Oct 2019 18:40:33 +0900</pubDate>
+      
+      <guid>https://xxx.github.io//tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://xxx.github.io//tags/hugo/</link>
+      <pubDate>Tue, 22 Oct 2019 18:40:33 +0900</pubDate>
+      
+      <guid>https://xxx.github.io//tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
